@@ -31,6 +31,7 @@ h2 {
 	color: black;
 	text-align: center;
 	padding-top: 10px;
+  font-size: 24px;
 }
 div {
 	color: black;
@@ -45,5 +46,8 @@ ul {
 li {
 	padding-top: 10px;
 	border-top: 1px solid black;
-	
 }
+section {
+  font-size: 35px;
+}
+
